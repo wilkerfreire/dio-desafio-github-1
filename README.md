@@ -1,2 +1,2 @@
-# dio-desafio-github-1
-Desafio de projeto sobre Git/GitHub - Bootcamp Banco Pan/Dio
+# Desafio de projeto 1 - Bootcamp DIO / Banco PAN Java developer
+Desafio de projeto sobre Git/GitHub
